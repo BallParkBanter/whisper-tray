@@ -1,0 +1,12 @@
+faster-whisper
+sounddevice
+numpy
+pyautogui
+pystray
+pillow
+keyboard
+pyperclip
+winotify
+pyinstaller
+pywin32
+winshell
