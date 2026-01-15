@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environments
+.venv/
+
+# OS/cache
+.DS_Store
+Thumbs.db
+
+# PyInstaller
+build/
+dist/
+*.spec
+
+# Logs
+*.log
+
+# Distribution packages
+*.zip
+
+# Screenshots (debugging)
+screenshots/
